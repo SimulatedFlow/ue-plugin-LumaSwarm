@@ -73,7 +73,7 @@ Rebuild. You have a street.
 | **Type** | Code plugin, C++ source included |
 | **Engine version** | 5.8 |
 | **Modules** | 1 runtime module (`LumaSwarm`, LoadingPhase PreDefault) |
-| **Platforms** | Win64, Mac, Linux |
+| **Platforms** | Win64 — built and verified with `RunUAT BuildPlugin` for this release. Mac and Linux are allow-listed in the `.uplugin` and the code contains nothing platform-specific, but they were not built here and are therefore not claimed as supported. |
 | **Editor dependencies** | None — no `UnrealEd`, no `Slate`, works in a cooked shipping build |
 | **Third-party libraries** | None |
 | **Blueprint support** | Full — subsystem, component, spawner, profile assets and a function library |
@@ -129,4 +129,4 @@ Being straight about this is cheaper for both of us than a refund.
 Documentation: `Docs/DOCUMENTATION.md` in the plugin folder.
 Questions and bug reports: teufelsilvan@gmail.com
 
-Copyright 2026 Simulated Flow. All Rights Reserved.
+Copyright 2026 Silvan Teufel. All Rights Reserved.
