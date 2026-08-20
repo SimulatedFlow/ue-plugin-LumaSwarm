@@ -291,4 +291,4 @@ Its spline needs at least two points. Select the spawner, select the spline comp
 
 ---
 
-Copyright 2026 Silvan Teufel. All Rights Reserved.
+Copyright 2026 Simulated Flow. All Rights Reserved.
