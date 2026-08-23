@@ -46,7 +46,7 @@ Full documentation: [`Docs/DOCUMENTATION.md`](Docs/DOCUMENTATION.md).
 
 ---
 
-Copyright 2026 Simulated Flow. All Rights Reserved.
+Copyright 2026 Silvan Teufel. All Rights Reserved.
 
 <!-- SF-STORE-BLOCK:BEGIN -->
 ## 🛒 Source-available — see before you buy
@@ -63,5 +63,5 @@ This repository contains the **full source** of a commercial Unreal Engine plugi
 
 👉 **[Get the free pack](https://silvan.teufel-engineering.com/newsletter/plugins/?q=gh)**
 
-_© 2026 Simulated Flow. All rights reserved._
+_© 2026 Silvan Teufel. All rights reserved._
 <!-- SF-STORE-BLOCK:END -->

@@ -129,4 +129,4 @@ Being straight about this is cheaper for both of us than a refund.
 Documentation: `Docs/DOCUMENTATION.md` in the plugin folder.
 Questions and bug reports: teufelsilvan@gmail.com
 
-Copyright 2026 Simulated Flow. All Rights Reserved.
+Copyright 2026 Silvan Teufel. All Rights Reserved.
