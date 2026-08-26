@@ -29,7 +29,7 @@
 | **Engine version** | Unreal Engine **5.8** (`"EngineVersion": "5.8.0"` in the `.uplugin`) |
 | **Plugin type** | Code plugin, full C++ source included |
 | **Modules** | Exactly one: `LumaSwarm`, `Type: Runtime`, `LoadingPhase: PreDefault` |
-| **Platform allow list** | `Win64`, `Mac`, `Linux` |
+| **Platform allow list** | `Win64` |
 | **Editor dependencies** | None. No `UnrealEd`, no `Slate`, no editor module — everything here survives a cooked shipping build |
 | **Module dependencies** | `Core`, `CoreUObject`, `Engine`, `DeveloperSettings` (public); `RenderCore`, `RHI` (private) |
 | **Third-party libraries** | None |

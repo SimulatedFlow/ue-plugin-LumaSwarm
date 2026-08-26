@@ -73,7 +73,7 @@ Rebuild. You have a street.
 | **Type** | Code plugin, C++ source included |
 | **Engine version** | 5.8 |
 | **Modules** | 1 runtime module (`LumaSwarm`, LoadingPhase PreDefault) |
-| **Platforms** | Win64 — built and verified with `RunUAT BuildPlugin` for this release. Mac and Linux are allow-listed in the `.uplugin` and the code contains nothing platform-specific, but they were not built here and are therefore not claimed as supported. |
+| **Platforms** | Win64 — built and verified with `RunUAT BuildPlugin` for this release. Mac and Linux are not in the `.uplugin`'s `PlatformAllowList`; the code contains nothing platform-specific, but they were not built or tested here and are therefore not offered. |
 | **Editor dependencies** | None — no `UnrealEd`, no `Slate`, works in a cooked shipping build |
 | **Third-party libraries** | None |
 | **Blueprint support** | Full — subsystem, component, spawner, profile assets and a function library |
