@@ -42,8 +42,9 @@ LumaSwarm.Pause 0|1            freeze / resume the swarm clock
 LumaSwarm.TimeDilation <s>     speed of the swarm clock
 ```
 
-Full documentation: [`Docs/DOCUMENTATION.md`](Docs/DOCUMENTATION.md).
+Full documentation, free and without an account: <https://wiki.teufel-engineering.com/en/LumaSwarm/documentation>
 
+The same manual ships with the plugin as [`Docs/DOCUMENTATION.md`](Docs/DOCUMENTATION.md).
 ---
 
 Copyright 2026 Silvan Teufel. All Rights Reserved.
